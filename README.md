@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**prachilal/prachilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [👩‍💻](https://emojipedia.org/woman-technologist/)I am an engineering student at Symbiosis Institute of Technology, Pune, Maharashtra, India. 
 
-Here are some ideas to get you started:
+### [👩‍💻](https://emojipedia.org/woman-technologist/)I specialize in the fields of Machine Learning, deep learning, data science, and Artificial Intelligence, and I have a great passion for these areas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📢 I advocate for mental health hygiene.
+
+### [🙂](https://emojipedia.org/slightly-smiling-face/) Pronouns: She/Her.
+
+### [📨](https://emojipedia.org/incoming-envelope/) Reach me at:
+- ####  [💼](https://emojipedia.org/briefcase/) [LinkedIn](https://www.linkedin.com/in/prachi-lal-645693218/)
+- ####  [📧](https://emojipedia.org/e-mail/) [Email](mailto:plalindia01@gmail.com)
